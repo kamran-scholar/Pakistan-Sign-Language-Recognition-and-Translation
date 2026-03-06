@@ -1,0 +1,289 @@
+{
+  "src_root": "/home/gpu/PSL Isolated Signs Datasets/Combined-cropped-dataset",
+  "dst_root": "/home/gpu/PSL Isolated Signs Datasets/Combined-cropped-split",
+  "ratios": {
+    "train": 0.7,
+    "val": 0.1,
+    "test": 0.2
+  },
+  "seed": 42,
+  "classes": [
+    "\u0621",
+    "\u0627",
+    "\u0628",
+    "\u062a",
+    "\u062b",
+    "\u062c",
+    "\u062d",
+    "\u062e",
+    "\u062f",
+    "\u0630",
+    "\u0631",
+    "\u0632",
+    "\u0633",
+    "\u0634",
+    "\u0635",
+    "\u0636",
+    "\u0637",
+    "\u0638",
+    "\u0639",
+    "\u063a",
+    "\u0641",
+    "\u0642",
+    "\u0644",
+    "\u0645",
+    "\u0646",
+    "\u0648",
+    "\u0679",
+    "\u067e",
+    "\u0686",
+    "\u0688",
+    "\u0691",
+    "\u0698",
+    "\u06a9",
+    "\u06af",
+    "\u06ba",
+    "\u06be",
+    "\u06c1",
+    "\u06cc",
+    "\u06d2"
+  ],
+  "enforce_min_per_split": true,
+  "total_files": 26255,
+  "per_class_counts": {
+    "\u0621": {
+      "total": 662,
+      "train": 464,
+      "val": 66,
+      "test": 132
+    },
+    "\u0627": {
+      "total": 768,
+      "train": 537,
+      "val": 77,
+      "test": 154
+    },
+    "\u0628": {
+      "total": 782,
+      "train": 548,
+      "val": 78,
+      "test": 156
+    },
+    "\u062a": {
+      "total": 773,
+      "train": 541,
+      "val": 77,
+      "test": 155
+    },
+    "\u062b": {
+      "total": 736,
+      "train": 515,
+      "val": 74,
+      "test": 147
+    },
+    "\u062c": {
+      "total": 102,
+      "train": 72,
+      "val": 10,
+      "test": 20
+    },
+    "\u062d": {
+      "total": 738,
+      "train": 516,
+      "val": 74,
+      "test": 148
+    },
+    "\u062e": {
+      "total": 722,
+      "train": 506,
+      "val": 72,
+      "test": 144
+    },
+    "\u062f": {
+      "total": 657,
+      "train": 460,
+      "val": 66,
+      "test": 131
+    },
+    "\u0630": {
+      "total": 711,
+      "train": 498,
+      "val": 71,
+      "test": 142
+    },
+    "\u0631": {
+      "total": 768,
+      "train": 537,
+      "val": 77,
+      "test": 154
+    },
+    "\u0632": {
+      "total": 802,
+      "train": 562,
+      "val": 80,
+      "test": 160
+    },
+    "\u0633": {
+      "total": 761,
+      "train": 533,
+      "val": 76,
+      "test": 152
+    },
+    "\u0634": {
+      "total": 750,
+      "train": 525,
+      "val": 75,
+      "test": 150
+    },
+    "\u0635": {
+      "total": 772,
+      "train": 541,
+      "val": 77,
+      "test": 154
+    },
+    "\u0636": {
+      "total": 682,
+      "train": 478,
+      "val": 68,
+      "test": 136
+    },
+    "\u0637": {
+      "total": 678,
+      "train": 474,
+      "val": 68,
+      "test": 136
+    },
+    "\u0638": {
+      "total": 685,
+      "train": 480,
+      "val": 68,
+      "test": 137
+    },
+    "\u0639": {
+      "total": 654,
+      "train": 458,
+      "val": 65,
+      "test": 131
+    },
+    "\u063a": {
+      "total": 690,
+      "train": 483,
+      "val": 69,
+      "test": 138
+    },
+    "\u0641": {
+      "total": 659,
+      "train": 461,
+      "val": 66,
+      "test": 132
+    },
+    "\u0642": {
+      "total": 687,
+      "train": 481,
+      "val": 69,
+      "test": 137
+    },
+    "\u0644": {
+      "total": 691,
+      "train": 484,
+      "val": 69,
+      "test": 138
+    },
+    "\u0645": {
+      "total": 668,
+      "train": 467,
+      "val": 67,
+      "test": 134
+    },
+    "\u0646": {
+      "total": 664,
+      "train": 465,
+      "val": 66,
+      "test": 133
+    },
+    "\u0648": {
+      "total": 663,
+      "train": 464,
+      "val": 66,
+      "test": 133
+    },
+    "\u0679": {
+      "total": 734,
+      "train": 514,
+      "val": 73,
+      "test": 147
+    },
+    "\u067e": {
+      "total": 737,
+      "train": 516,
+      "val": 74,
+      "test": 147
+    },
+    "\u0686": {
+      "total": 720,
+      "train": 504,
+      "val": 72,
+      "test": 144
+    },
+    "\u0688": {
+      "total": 746,
+      "train": 522,
+      "val": 75,
+      "test": 149
+    },
+    "\u0691": {
+      "total": 72,
+      "train": 51,
+      "val": 7,
+      "test": 14
+    },
+    "\u0698": {
+      "total": 786,
+      "train": 550,
+      "val": 79,
+      "test": 157
+    },
+    "\u06a9": {
+      "total": 679,
+      "train": 475,
+      "val": 68,
+      "test": 136
+    },
+    "\u06af": {
+      "total": 1257,
+      "train": 880,
+      "val": 126,
+      "test": 251
+    },
+    "\u06ba": {
+      "total": 586,
+      "train": 410,
+      "val": 59,
+      "test": 117
+    },
+    "\u06be": {
+      "total": 606,
+      "train": 424,
+      "val": 61,
+      "test": 121
+    },
+    "\u06c1": {
+      "total": 103,
+      "train": 72,
+      "val": 10,
+      "test": 21
+    },
+    "\u06cc": {
+      "total": 650,
+      "train": 455,
+      "val": 65,
+      "test": 130
+    },
+    "\u06d2": {
+      "total": 654,
+      "train": 458,
+      "val": 65,
+      "test": 131
+    }
+  }
+}
